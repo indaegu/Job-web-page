@@ -1,0 +1,1 @@
+mainpage_normal가 이상하게 나올 경우, mainpage_normal_안되면 으로 교체하시면됩니다.
